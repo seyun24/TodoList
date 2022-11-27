@@ -1,0 +1,32 @@
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-11-27 15:12:29"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-11-27 15:21:54"}
+{"level":"error","message":"App - createUser Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?)' at line 1","timestamp":"2022-11-27 15:29:36"}
+{"level":"error","message":"App - createUser Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?)' at line 1","timestamp":"2022-11-27 15:29:40"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-11-27 15:30:37"}
+{"level":"error","message":"App - createUser Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?)' at line 1","timestamp":"2022-11-27 15:31:09"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-11-27 15:33:09"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-11-27 15:44:24"}
+{"level":"error","message":"App - createUser Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?)' at line 1","timestamp":"2022-11-27 15:44:38"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-11-27 15:49:56"}
+{"level":"error","message":"App - createUser Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?)' at line 1","timestamp":"2022-11-27 15:50:10"}
+{"level":"error","message":"App - createUser Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?)' at line 1","timestamp":"2022-11-27 15:50:15"}
+{"level":"error","message":"App - createUser Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?)' at line 1","timestamp":"2022-11-27 15:55:31"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-11-27 16:30:55"}
+{"level":"error","message":"App - createUser Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1","timestamp":"2022-11-27 16:31:24"}
+{"level":"error","message":"App - createUser Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1","timestamp":"2022-11-27 16:31:27"}
+{"level":"error","message":"App - createUser Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1","timestamp":"2022-11-27 16:31:30"}
+{"level":"error","message":"App - createUser Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1","timestamp":"2022-11-27 16:31:43"}
+{"level":"error","message":"App - createUser Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1","timestamp":"2022-11-27 16:33:37"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-11-27 16:34:26"}
+{"level":"error","message":"App - createUser Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1","timestamp":"2022-11-27 16:34:32"}
+{"level":"error","message":"App - createUser Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1","timestamp":"2022-11-27 16:35:11"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-11-27 16:35:20"}
+{"level":"error","message":"App - createUser Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1","timestamp":"2022-11-27 16:35:30"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-11-27 16:37:14"}
+{"level":"error","message":"App - createUser Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1","timestamp":"2022-11-27 16:37:18"}
+{"level":"error","message":"App - createUser Service error\n: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1","timestamp":"2022-11-27 16:37:21"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-11-27 16:39:02"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-11-27 16:42:40"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-11-27 16:44:46"}
+{"level":"error","message":"App - createUser Service error\n: Cannot read properties of undefined (reading 'status')","timestamp":"2022-11-27 18:02:24"}
+{"level":"error","message":"App - createUser Service error\n: Cannot read properties of undefined (reading 'status')","timestamp":"2022-11-27 18:39:37"}
