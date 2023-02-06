@@ -11,7 +11,7 @@ const jwt = require("jsonwebtoken");
 const crypto = require("crypto");
 const {connect} = require("http2");
 
-// Service: Create, Update, Delete 비즈니스 로직 처리
+
 
 exports.createUser = async function (email, password, nickname) {
     try {
@@ -43,16 +43,16 @@ exports.createUser = async function (email, password, nickname) {
 };
 
 
-// TODO: After 로그인 인증 방법 (JWT)
+
 exports.postSignIn = async function (email, password) {
     try {
-        // 이메일 여부 확인
+
         const emailRows = await userProvider.emailCheck(email);
         if (emailRows.length < 1) return errResponse(baseResponse.SIGNIN_EMAIL_WRONG);
 
         const selectEmail = emailRows[0].email
 
-        // 비밀번호 확인
+
         const hashedPassword = await crypto
             .createHash("sha512")
             .update(password)
@@ -65,7 +65,7 @@ exports.postSignIn = async function (email, password) {
             return errResponse(baseResponse.SIGNIN_PASSWORD_WRONG);
         }
 
-        // 계정 상태 확인
+
         const userInfoRows = await userProvider.accountCheck(email);
 
         if (userInfoRows[0].status === "INACTIVE") {
@@ -76,7 +76,7 @@ exports.postSignIn = async function (email, password) {
 
         console.log(userInfoRows[0].id) // DB의 userId
 
-        //토큰 생성 Service
+
         let token = await jwt.sign(
             {
                 userId: userInfoRows[0].id,
